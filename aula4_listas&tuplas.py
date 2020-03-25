@@ -4,7 +4,7 @@ Animais = ['gato', 'cachorro', 'leão', "papagaio"]
 
 Inteiros = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 
-# Imprime elementos utilizanod "for"
+# Imprime elementos utilizano "for"
 
 for y in Animais:
     print(y)
