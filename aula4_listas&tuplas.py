@@ -13,7 +13,7 @@ for y in Animais:
 
 print(sum(Inteiros))
 
-# >>> Tupla
+# >>> Cria e imprime elementos da Tupla
 
 Materiais = ('lapis', 'caneta', 'estojo', 'apagador', 'tesoura')
 
