@@ -1,3 +1,3 @@
 # Basico_Python
 
-## Exercícios básicos na linguagem Python.
+## Exercícios básicos de programação na linguagem Python.
