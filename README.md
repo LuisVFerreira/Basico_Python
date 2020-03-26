@@ -1,3 +1,3 @@
 # Basico_Python
 
-## Exercícios básicos de programação na linguagem Python: configurando repositórios Git e Github pelo VS Code.
+## Exercícios básicos de programação na linguagem Python (enquanto configuro VS Code).
